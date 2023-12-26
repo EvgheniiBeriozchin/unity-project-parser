@@ -1,0 +1,15 @@
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\bin\Debug\net6.0\UnityProjectParser.exe
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\bin\Debug\net6.0\UnityProjectParser.deps.json
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\bin\Debug\net6.0\UnityProjectParser.runtimeconfig.json
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\bin\Debug\net6.0\UnityProjectParser.dll
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\bin\Debug\net6.0\UnityProjectParser.pdb
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\obj\Debug\net6.0\UnityProjectParser.csproj.AssemblyReference.cache
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\obj\Debug\net6.0\UnityProjectParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\obj\Debug\net6.0\UnityProjectParser.AssemblyInfoInputs.cache
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\obj\Debug\net6.0\UnityProjectParser.AssemblyInfo.cs
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\obj\Debug\net6.0\UnityProjectParser.csproj.CoreCompileInputs.cache
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\obj\Debug\net6.0\UnityProjectParser.dll
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\obj\Debug\net6.0\refint\UnityProjectParser.dll
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\obj\Debug\net6.0\UnityProjectParser.pdb
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\obj\Debug\net6.0\UnityProjectParser.genruntimeconfig.cache
+D:\Jobs\Assessments\JetBrains\UnityProjectParser\UnityProjectParser\obj\Debug\net6.0\ref\UnityProjectParser.dll
